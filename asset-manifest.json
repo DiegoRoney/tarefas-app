@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tarefas-app/static/css/main.57faf2f6.css",
+    "main.js": "/tarefas-app/static/js/main.29acef1f.js",
+    "static/js/787.69d8dfee.chunk.js": "/tarefas-app/static/js/787.69d8dfee.chunk.js",
+    "index.html": "/tarefas-app/index.html",
+    "main.57faf2f6.css.map": "/tarefas-app/static/css/main.57faf2f6.css.map",
+    "main.29acef1f.js.map": "/tarefas-app/static/js/main.29acef1f.js.map",
+    "787.69d8dfee.chunk.js.map": "/tarefas-app/static/js/787.69d8dfee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57faf2f6.css",
+    "static/js/main.29acef1f.js"
+  ]
+}
